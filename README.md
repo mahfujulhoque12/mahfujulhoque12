@@ -50,16 +50,17 @@
     </td>
     <td align="center" width="96">
       <a href="https://nextjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" style="border-radius: 8px; padding: 5px; background-color: #f8f8f8;"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40" style="border-radius: 8px; padding: 5px; background-color: #ffffff;"/>
       </a>
       <br>Next.js
     </td>
-    <td align="center" width="96">
-      <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="border-radius: 8px; padding: 5px; background-color: #f8f8f8;"/>
-      </a>
-      <br>Django
-    </td>
+   <td align="center" width="96">
+   <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40" style="border-radius: 8px; padding: 5px; background-color: #f8f8f8;"/>
+   </a>
+   <br>TypeScript
+</td>
+
   </tr>
   <tr>
     <td align="center" width="96">
