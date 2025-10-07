@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mahfujul Hoque</h1>
 <h3 align="center">Full Stack Developer from Bangladesh</h3>
 
-<h3 align="center">- 💬 Ask me about **React & Next.js**</h3>
+<h3 align="center">- 💬 Ask me about **React & Next.js & Node**</h3>
 <h3 align="center">- 📫 How to reach me **mdmahfujulhoque123@gmail.com**</h3>
 
 <h3 align="center">Connect with me: 01615867969</h3>
