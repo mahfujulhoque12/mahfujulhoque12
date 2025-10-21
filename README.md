@@ -15,7 +15,7 @@
 - ⚙️ Experienced in building **scalable frontend architectures** and **RESTful backends**.  
 - 🎯 Focused on delivering **pixel-perfect UI** and **smooth user experiences**.  
 - 🌱 Currently learning **DevOps, performance optimization**, and **system design**.  
-- 💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, MongoDB**.  
+- 💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS, Zustand, React Hook Form, Zod, Node.js, Express, MongoDB**.  
 
 ---
 
@@ -37,8 +37,54 @@
 
 ### ⚙️ Tech Stack & Tools
 
+#### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,nodejs,express,mongodb,postgres,python,git,github,docker,firebase,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap" /><br/>
+  <img src="https://skillicons.dev/icons?i=framer" />
+</p>
+
+<p align="center">
+  🧩 <b>State Management:</b> Zustand, Redux Toolkit<br/>
+  🧾 <b>Form & Validation:</b> React Hook Form, Zod<br/>
+  🎬 <b>Animation:</b> Framer Motion<br/>
+  🎨 <b>Styling:</b> Tailwind CSS, Shadcn/UI, Bootstrap
+</p>
+
+---
+
+#### 🧠 Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
+</p>
+
+<p align="center">
+  ⚙️ <b>API Design:</b> RESTful, MVC Pattern<br/>
+  🔐 <b>Authentication:</b> JWT, Cookies & Sessions<br/>
+  💾 <b>Databases:</b> MongoDB, PostgreSQL, Firebase
+</p>
+
+---
+
+#### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,docker" />
+</p>
+
+<p align="center">
+  🚀 <b>Deployment:</b> Vercel, Render, Netlify<br/>
+  🧪 <b>Version Control:</b> Git & GitHub<br/>
+  🧱 <b>API Testing:</b> Postman, Thunder Client
+</p>
+
+---
+
+#### 🎨 Design & Creative Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+<p align="center">
+  ✏️ <b>UI/UX:</b> Wireframing, Prototyping, Responsive Design
 </p>
 
 ---
